@@ -9,7 +9,8 @@
   "./service-worker.js": "././service-worker.js",
   "favicon.ico": "./favicon.ico",
   "index.html": "./index.html",
+  "ios-icon.png": "./ios-icon.png",
   "logo.svg": "./logo.svg",
   "manifest.json": "./manifest.json",
-  "precache-manifest.498989e338e04caacbb4186bb73ba48e.js": "./precache-manifest.498989e338e04caacbb4186bb73ba48e.js"
+  "precache-manifest.ff0210c2b2a149e74c1291e9e70c08f9.js": "./precache-manifest.ff0210c2b2a149e74c1291e9e70c08f9.js"
 }

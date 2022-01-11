@@ -4,8 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./favicon.ico"
   },
   {
-    "revision": "1be948e1d2dd1a5a87776f07805261d0",
+    "revision": "5b58465fe2aa30e920270577489273af",
     "url": "./index.html"
+  },
+  {
+    "revision": "458ab5f9fd26a0c842918698732c12dc",
+    "url": "./ios-icon.png"
   },
   {
     "revision": "6ead519905b7b907c00965be37dd5cd7",
