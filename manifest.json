@@ -1,6 +1,6 @@
 {
-  "short_name": "Plass",
-  "name": "Plassbestilling",
+  "short_name": "Elm App",
+  "name": "Create Elm App Sample",
   "icons": [
     {
       "src": "favicon.ico",
